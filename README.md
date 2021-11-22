@@ -6,7 +6,7 @@ for Trip Advisor Hotel Reviews.
 
 # Table of Content
 - [Project Proposal](https://github.com/Alanoud-Aziz/NLP/blob/main/Proposal.md)
-- [Hotel Reviews Preprocessing](https://github.com/Alanoud-Aziz/NLP/blob/main/Trip%20Advisor%20(NLP%20Preprocessing)%20.ipynb)
+- [Hotel Reviews Dataset](https://github.com/Alanoud-Aziz/NLP/blob/main/Trip%20Advisor%20(NLP%20Preprocessing)%20.ipynb)
 - [Dataset after Preprocessing](https://github.com/Alanoud-Aziz/NLP/blob/main/tripadvisor_hotel_reviews.csv)
 - [Sentiment Analysis & Classifier](https://github.com/Alanoud-Aziz/NLP/blob/main/NLP%20Classification.ipynb)
 - [NLP Topic Modeling](https://github.com/Alanoud-Aziz/NLP/blob/main/NLP%20Topic%20Modeling%20T5.ipynb)
